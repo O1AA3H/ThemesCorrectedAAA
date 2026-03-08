@@ -19,9 +19,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#471025",
-            "#471025",
-            "#471025"
+            "#4D4347",
+            "#4D4347",
+            "#4D4347"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
@@ -319,9 +319,9 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
-            "#471025",
-            "#471025",
-            "#471025"
+            "#4D4347",
+            "#4D4347",
+            "#4D4347"
         ],
         "INTERACTIVE_ACTIVE": [
             "#DC4DBD",
