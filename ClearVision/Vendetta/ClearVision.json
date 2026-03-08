@@ -139,9 +139,9 @@
             "#DC4DBD4d"
         ],
         "CHAT_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "A8A8A8",
+            "A8A8A8",
+            "A8A8A8"
         ],
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
 	    "#280F1A",
