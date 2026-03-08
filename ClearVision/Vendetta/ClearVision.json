@@ -59,19 +59,19 @@
             "#59224B"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#D6267926",
+            "#954A5526",
             "#6F2C2C26",
-            "#D6267926"
+            "#954A5526"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#D6267926",
+            "#954A5526",
             "#6F2C2C26",
-            "#D6267926"
+            "#954A5526"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D6267999",
-            "#D6267999",
-            "#D6267999"
+            "#954A5599",
+            "#954A5599",
+            "#954A5599"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#480A43",
@@ -449,9 +449,9 @@
             "#dcddde"
         ],
         "TEXT_MUTED": [
-            "#D62679",
-            "#D62679",
-            "#D62679"
+            "#954A55",
+            "#954A55",
+            "#954A55"
         ],
         "TEXT_NORMAL": [
             "#dcddde",
