@@ -149,9 +149,9 @@
 	    "#280F1A"
 	],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#E081EF",
-            "#E081EF",
-            "#E081EF"
+            "#A08799",
+            "#A08799",
+            "#A08799"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#6A6A6A",
@@ -339,9 +339,9 @@
             "#3f414c"
         ],
         "INTERACTIVE_NORMAL": [
-            "#E081EF",
-            "#E081EF",
-            "#E081EF"
+            "#A08799",
+            "#A08799",
+            "#A08799"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
