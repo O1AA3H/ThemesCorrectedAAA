@@ -134,9 +134,9 @@
             "#575a68"			
         ],
         "CHANNEL_ICON": [
-            "#6C81A04d",
-            "#6C81A04d",
-            "#6C81A04d"
+            "#5693EC4d",
+            "#5693EC4d",
+            "#5693EC4d"
         ],
         "CHAT_BACKGROUND": [
             "A8A8A8",
@@ -254,9 +254,9 @@
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
-            "#6C81A0",
-            "#6C81A0",
-            "#6C81A0"
+            "#5693EC",
+            "#5693EC",
+            "#5693EC"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#6A6A6A",
@@ -324,9 +324,9 @@
             "#4D4347"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#6C81A0",
-            "#6C81A0",
-            "#6C81A0"
+            "#5693EC",
+            "#5693EC",
+            "#5693EC"
         ],
         "INTERACTIVE_HOVER": [
             "#6F2C2C",
@@ -439,9 +439,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#6C81A0",
-            "#6C81A0",
-            "#6C81A0"
+            "#5693EC",
+            "#5693EC",
+            "#5693EC"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#dcddde",
