@@ -39,14 +39,14 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#4a0b32",
-            "#4a0b32",
-            "#4a0b32"
+            "#6F2C2C",
+            "#6F2C2C",
+            "#6F2C2C"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#4a0b32",
-            "#4a0b32",
-            "#4a0b32"
+            "#6F2C2C",
+            "#6F2C2C",
+            "#6F2C2C"
         ],
         "BACKGROUND_ACCENT": [
             "#EA86B5",
@@ -60,12 +60,12 @@
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#D6267926",
-            "#4a0b3226",
+            "#6F2C2C26",
             "#D6267926"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#D6267926",
-            "#4a0b3226",
+            "#6F2C2C26",
             "#D6267926"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
@@ -79,9 +79,9 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#4a0b32",
-            "#4a0b32",
-            "#4a0b32"
+            "#6F2C2C",
+            "#6F2C2C",
+            "#6F2C2C"
         ],
         "BACKGROUND_SECONDARY": [
             "#0a1426",
@@ -264,7 +264,7 @@
             "#2E0736"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#4a0b32",
+            "#6F2C2C",
             "#E17EF0",
             "#000000"
         ],
@@ -329,9 +329,9 @@
             "#DC4DBD"
         ],
         "INTERACTIVE_HOVER": [
-            "#4a0b32",
+            "#6F2C2C",
             "#665c54",
-            "#4a0b32"
+            "#6F2C2C"
         ],
         "INTERACTIVE_MUTED": [
             "#3f414c",
@@ -374,22 +374,22 @@
             "#59224B"
 	],
         "SCROLLBAR_AUTO_THUMB": [
-            "#4a0b32",
-            "#4a0b32",
-            "#4a0b32"
+            "#6F2C2C",
+            "#6F2C2C",
+            "#6F2C2C"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#4a0b32",
+            "#6F2C2C",
             "#E17EF0",
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#4a0b32",
-            "#4a0b32",
-            "#4a0b32"
+            "#6F2C2C",
+            "#6F2C2C",
+            "#6F2C2C"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#4a0b32",
+            "#6F2C2C",
             "#E17EF0",
             "#000000"
         ],
