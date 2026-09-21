@@ -104,14 +104,14 @@
 	    "#9CB6C6b3"
 	],
 	"BG_BASE_PRIMARY": [
-	    "#6D445D",
-	    "#6D445D",
-	    "#6D445D"
+	    "#2E6C85",
+	    "#2E6C85",
+	    "#2E6C85"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
-        "#6D445D",
-	    "#6D445D",
-	    "#6D445D"
+        "#2E6C85",
+	    "#2E6C85",
+	    "#2E6C85"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#6A6A6A",
@@ -119,14 +119,14 @@
             "#000000"
         ],
 	"CARD_PRIMARY_BG": [
-	    "#6D445D",
-	    "#6D445D",
-	    "#6D445D"
+	    "#2E6C85",
+	    "#2E6C85",
+	    "#2E6C85"
 	],
 	"CARD_SECONDARY_BG": [
-	    "#6D445D",
-	    "#6D445D",
-	    "#6D445D"
+	    "#2E6C85",
+	    "#2E6C85",
+	    "#2E6C85"
 	],
         "CHANNELS_DEFAULT": [
             "#575a68",
@@ -364,9 +364,9 @@
             "#23111E"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-	    "#6D445D",
-	    "#6D445D",
-	    "#6D445D"
+	    "#2E6C85",
+	    "#2E6C85",
+	    "#2E6C85"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BORDER": [
 	    "#59224B",
