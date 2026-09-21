@@ -89,9 +89,9 @@
             "#A0A0A0 "
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0A354A",
-            "#0A354A",
-            "#0A354A"
+            "#0F2B3B",
+            "#0F2B3B",
+            "#0F2B3B"
         ],
         "BACKGROUND_TERTIARY": [
             "#2E0418",
@@ -234,9 +234,9 @@
             "#000000"
         ],
 	"EXPRESSION_PICKER_BG": [
-	    "#0A354A",
-	    "#0A354A",
-	    "#0A354A"
+	    "#0F2B3B",
+	    "#0F2B3B",
+	    "#0F2B3B"
 	],
         "FOCUS_PRIMARY": [
             "#6A6A6A",
@@ -359,9 +359,9 @@
             "#000000"
         ],
 	"PANEL_BG": [
-	    "#0A354A",
-            "#0A354A",
-            "#0A354A"
+	    "#0F2B3B",
+            "#0F2B3B",
+            "#0F2B3B"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
 	    "#2E6C85",
